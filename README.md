@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Boot Camp Projects
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently A software developer pursuing my masters degree in computer science. 
+- 🌱 I’m currently working with Angular with a full stack background using Java and MySql
 - 📫 How to reach me: https://www.linkedin.com/in/david-swanstrom/
-- ⚡ Fun fact: I lived in Japan for a year as an English teacher and I am a life long student of the language!
+- ⚡ Fun fact: I am a student of life, hobby game developer, and sushi guru! 
 
