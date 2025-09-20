@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently A software developer pursuing my masters degree in computer science. 
-- 🌱 I’m currently working with Angular with a full stack background using Java and MySql
+- 🌱 I am a full stack developer with experience in several tech stacks. 
 - 📫 How to reach me: https://www.linkedin.com/in/david-swanstrom/
 - ⚡ Fun fact: I am a student of life, hobby game developer, and sushi guru! 
 
